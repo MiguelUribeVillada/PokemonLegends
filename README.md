@@ -43,12 +43,12 @@
 ## Requisitos
 
 - **Minecraft** versión 1.21.1.
-- **Mod Cobblemon** instalado previamente. Puedes encontrarlo [aquí](https://cobblemon.com).
+- **Mod Cobblemon** instalado previamente.
 
 ## Notas Adicionales
 
 - Este DataPack es un proyecto en desarrollo. Planeo mantenerlo actualizado y mejorar la experiencia con spawns más complejos y nuevas características.
-- Si tienes ideas o encuentras algún problema, no dudes en crear un issue en este repositorio.
+- Si tienes ideas o encuentras algún problema, no dudes en comentarmelo de inmediato.
 
 ## Créditos
 
