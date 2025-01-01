@@ -30,15 +30,14 @@
 
 ## Instalación
 
-1. Descarga la carpeta .zip adjunta llamada: **"PokemonLegends_Cobblemon"**.
-2. Descomprime el archivo descargado.
-3. Si aún no tienes un mundo creado, crea uno nuevo. Luego ciérralo.
-4. Ve a la siguiente ubicación en tu sistema:
-   - `AppData\Roaming\.minecraft\saves\nombreDelMundoAlqueSeLeQuieraMeterElDatapack\datapacks`
-5. Pega la carpeta descomprimida en esta ubicación.
-6. Vuelve a abrir tu mundo en Minecraft.
-7. Si aparece una advertencia al cargar el datapack, acéptala. Recuerda que esta advertencia es inofensiva y solo aparece porque el contenido proviene de una fuente externa.
-8. ¡Disfruta de tu mundo con los nuevos spawns de Pokémon legendarios y míticos!
+1. Descarga la carpeta .zip llamada: "PokemonLegends_Cobblemon".
+2. Si aún no tienes un mundo creado, crea uno nuevo. Luego ciérralo.
+3. Ve a la siguiente ubicación en tu sistema:
+- AppData\Roaming\.minecraft\saves\nombreDelMundoAlqueSeLeQuieraMeterElDatapack\datapacks
+4. Pega el comprimido "PokemonLegends_Cobblemon.zip" en esta ubicación.
+5. Vuelve a abrir tu mundo en Minecraft.
+6. Si aparece una advertencia al cargar el datapack, acéptala. Recuerda que esta advertencia es inofensiva y solo aparece porque el contenido proviene de una fuente externa.
+7. ¡Disfruta de tu mundo con los nuevos spawns de Pokémon legendarios y míticos!
 
 ## Requisitos
 
