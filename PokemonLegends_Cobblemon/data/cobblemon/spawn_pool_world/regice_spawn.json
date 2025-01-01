@@ -1,0 +1,30 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "regice-1",
+            "pokemon": "regice",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "50-70",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_snowy",
+                    "#cobblemon:is_ice_spikes"
+                ],
+                "neededNearbyBlocks": [
+                    "minecraft:ice",
+                    "minecraft:packed_ice"
+                ]
+            }
+        }
+    ]
+ }
+ 

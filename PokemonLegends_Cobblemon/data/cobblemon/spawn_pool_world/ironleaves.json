@@ -1,0 +1,31 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+      {
+        "id": "ironleaves-1",
+        "pokemon": "ironleaves",
+        "presets": [
+          "natural"
+        ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "ultra-rare",
+        "level": "65-65",
+        "weight": 3.0,
+        "condition": {
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:savanna"
+          ],
+          "weather": "clear",
+          "neededNearbyBlocks": [
+            "minecraft:grass_block",
+            "minecraft:leaves"
+          ]
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,30 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "regirock-1",
+            "pokemon": "regirock",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "50-70",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_mountain",
+                    "#cobblemon:is_cave"
+                ],
+                "neededNearbyBlocks": [
+                    "minecraft:stone",
+                    "minecraft:cobblestone"
+                ]
+            }
+        }
+    ]
+ }
+ 
