@@ -30,7 +30,7 @@
 
 ## Instalación
 
-1. Descarga la carpeta .zip llamada: "PokemonLegends_Cobblemon".
+1. Descarga el comprimido .zip llamado: "PokemonLegends_Cobblemon".
 2. Si aún no tienes un mundo creado, crea uno nuevo. Luego ciérralo.
 3. Ve a la siguiente ubicación en tu sistema:
 - AppData\Roaming\.minecraft\saves\nombreDelMundoAlqueSeLeQuieraMeterElDatapack\datapacks
